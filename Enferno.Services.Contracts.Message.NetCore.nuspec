@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Enferno.Services.Contracts.Message.NetCore</id>
+    <version>1.1.0-beta</version>
+    <title>Enferno.Services.Contracts.Message.NetCore</title>
+    <authors>Enferno AB</authors>
+    <owners>Enferno AB</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Support for common message contracts for .NET Core.</description>
+    <releaseNotes>
+      Upgraded to multitarget project.
+    </releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Enferno Services Contracts Message NetCore</tags>
+    <dependencies />
+  </metadata>
+  <files>
+    <file src="Enferno.Services.Contracts.Message\bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.dll" target="lib/net45" />
+    <file src="Enferno.Services.Contracts.Message\bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.pdb" target="lib/net45" />
+    <file src="Enferno.Services.Contracts.Message\bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.xml" target="lib/net45" />
+  </files>
+</package>
