@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Enferno.Services.Contracts.Message</id>
-    <version>1.1.0-beta</version>
+    <version>1.1.0-beta3</version>
     <title>Enferno.Services.Contracts.Message</title>
     <authors>Enferno AB</authors>
     <owners>Enferno AB</owners>
@@ -19,5 +19,8 @@
     <file src="Enferno.Services.Contracts.Message\bin\Debug\net45\Enferno.Services.Contracts.Message.dll" target="lib/net45" />
     <file src="Enferno.Services.Contracts.Message\bin\Debug\net45\Enferno.Services.Contracts.Message.pdb" target="lib/net45" />
     <file src="Enferno.Services.Contracts.Message\bin\Debug\net45\Enferno.Services.Contracts.Message.xml" target="lib/net45" />
+    <file src="Enferno.Services.Contracts.Message\bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.dll" target="lib/netcoreapp2.0" />
+    <file src="Enferno.Services.Contracts.Message\bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.pdb" target="lib/netcoreapp2.0" />
+    <file src="Enferno.Services.Contracts.Message\bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.xml" target="lib/netcoreapp2.0" />
   </files>
 </package>

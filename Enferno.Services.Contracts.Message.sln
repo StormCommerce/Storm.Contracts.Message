@@ -6,7 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5B3D854-C0F4-49AF-9762-CDC85F983C46}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		Enferno.Services.Contracts.Message.NetCore.nuspec = Enferno.Services.Contracts.Message.NetCore.nuspec
 		Enferno.Services.Contracts.Message.nuspec = Enferno.Services.Contracts.Message.nuspec
 		README.md = README.md
 	EndProjectSection
