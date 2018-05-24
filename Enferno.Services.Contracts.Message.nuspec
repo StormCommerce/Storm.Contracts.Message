@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Enferno.Services.Contracts.Message</id>
-    <version>1.1.0-beta3</version>
+    <version>1.1.0</version>
     <title>Enferno.Services.Contracts.Message</title>
     <authors>Enferno AB</authors>
     <owners>Enferno AB</owners>
