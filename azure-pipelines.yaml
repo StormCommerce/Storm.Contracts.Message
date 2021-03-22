@@ -87,3 +87,10 @@ steps:
       PathtoPublish: '$(Build.ArtifactStagingDirectory)/nugetsymbols'
       ArtifactName: 'nugetsymbols'
     condition: succeeded()
+
+  - task: PublishBuildArtifacts@1
+    displayName: 'Publish Nuget Artifacts for azure feed'
+    inputs:
+      PathtoPublish: '$(Build.ArtifactStagingDirectory)/nugetsymbols'
+      ArtifactName: 'contracts.message'
+    condition: succeeded()
