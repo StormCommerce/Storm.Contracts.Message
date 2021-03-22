@@ -15,11 +15,11 @@
     <DelaySign>false</DelaySign>
   </PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netcoreapp2.0|AnyCPU'">
-    <DocumentationFile>bin\Debug\netcoreapp2.0\Enferno.Services.Contracts.Message.xml</DocumentationFile>
+  <PropertyGroup>
+    <DocumentationFile>bin\$(Configuration)\netcoreapp2.0\Enferno.Services.Contracts.Message.xml</DocumentationFile>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net45|AnyCPU'">
-    <DocumentationFile>bin\Debug\net45\Enferno.Services.Contracts.Message.xml</DocumentationFile>
+  <PropertyGroup>
+    <DocumentationFile>bin\$(Configuration)\net45\Enferno.Services.Contracts.Message.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
