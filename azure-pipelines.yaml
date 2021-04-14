@@ -2,6 +2,7 @@ name: Enferno.Contracts.Message - $(majorMinorVersion).$(semanticVersion)$(versi
 
 trigger:
   - production
+  - dev
   - master
   - feature/*
   - hotfix/*
@@ -12,7 +13,7 @@ pool:
 variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
-  majorMinorVersion: 1.2
+  majorMinorVersion: 2.0
   semanticVersion: $[counter(variables['majorMinorVersion'], 0)]
   ${{ if eq(variables['Build.SourceBranchName'], 'master') }}:
     versionSuffix: ''
