@@ -16,9 +16,6 @@
     <dependencies />
   </metadata>
   <files>
-    <file src="Enferno.Services.Contracts.Message\bin\$configuration$\net45\Enferno.Services.Contracts.Message.dll" target="lib/net45" />
-    <file src="Enferno.Services.Contracts.Message\bin\$configuration$\net45\Enferno.Services.Contracts.Message.pdb" target="lib/net45" />
-    <file src="Enferno.Services.Contracts.Message\bin\$configuration$\net45\Enferno.Services.Contracts.Message.xml" target="lib/net45" />
     <file src="Enferno.Services.Contracts.Message\bin\$configuration$\netcoreapp2.0\Enferno.Services.Contracts.Message.dll" target="lib/netcoreapp2.0" />
     <file src="Enferno.Services.Contracts.Message\bin\$configuration$\netcoreapp2.0\Enferno.Services.Contracts.Message.pdb" target="lib/netcoreapp2.0" />
     <file src="Enferno.Services.Contracts.Message\bin\$configuration$\netcoreapp2.0\Enferno.Services.Contracts.Message.xml" target="lib/netcoreapp2.0" />
