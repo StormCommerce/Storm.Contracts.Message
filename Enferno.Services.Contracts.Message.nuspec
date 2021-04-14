@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Enferno.Services.Contracts.Message</id>
-    <version>1.1.1</version>
+    <version>$version$</version>
     <title>Enferno.Services.Contracts.Message</title>
     <authors>Enferno AB</authors>
     <owners>Enferno AB</owners>
@@ -13,7 +13,6 @@
     </releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>Enferno Services Contracts Message</tags>
-    <dependencies />
   </metadata>
   <files>
     <file src="Enferno.Services.Contracts.Message\bin\$configuration$\netstandard2.0\Enferno.Services.Contracts.Message.dll" target="lib/netstandard2.0" />
