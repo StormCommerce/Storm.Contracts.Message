@@ -2,6 +2,7 @@ name: Enferno.Contracts.Message - $(majorMinorVersion).$(semanticVersion)$(versi
 
 trigger:
   - production
+  - dev
   - master
   - feature/*
   - hotfix/*

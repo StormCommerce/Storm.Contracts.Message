@@ -9,7 +9,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Support for common message contracts.</description>
         <releaseNotes>
-            Assembly signing was added.
+            Migrated to netstandard2.0
         </releaseNotes>
         <copyright>Copyright 2015</copyright>
         <tags>Enferno Services Contracts Message</tags>
